@@ -14,5 +14,4 @@
     <page id="12" shadow="true" source="content/pages/page12.jpg" thumb="content/thumbs/page12.jpg"></page>
     <page id="13" shadow="true" source="content/pages/page13.jpg" thumb="content/thumbs/page13.jpg"></page>
     <page id="14" shadow="true" source="content/pages/page14.jpg" thumb="content/thumbs/page14.jpg"></page>
-    <page id="15" shadow="true" source="content/pages/page15.jpg" thumb="content/thumbs/page15.jpg"></page>
 </pages>
